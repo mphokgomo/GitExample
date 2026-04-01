@@ -17,5 +17,5 @@ public class GitExample {
       
         String name;// TODO code application logic here
     }
-    
+    String name=  // this stores the names 
 }
